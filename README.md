@@ -43,6 +43,8 @@
 `运行截图.png`，`运行截图2.png`：程序运行截图
 
 
+本项目的识别精度f1分值可达约97，随参数规模增加可获得进一步提升，但会导致训练速度较慢。
+
 
 Author: Xinyun Hu, Beijing University of Posts and Telecommunications
 
